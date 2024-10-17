@@ -463,9 +463,7 @@ var Room = {
 			type: 'good',
 			cost: function () {
 				return {
-					'fur': 15,
-					'scales': 75,
-					'teeth': 3
+					'fur': 1,
 				};
 			},
 			audio: AudioLibrary.BUY_ALIEN_ALLOY
